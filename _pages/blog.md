@@ -2,6 +2,7 @@
 layout: default
 permalink: /blog/
 title: blog
+published: false ## THIS IS WHY THE PAGE IS OFF
 nav: true
 nav_order: 1
 pagination:
