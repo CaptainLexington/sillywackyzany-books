@@ -4,6 +4,12 @@
 
 @use "variables" as v;
 
+@font-face {
+  font-family: 'Clarendon';
+  font-style: normal;
+  src: url('#{v.$fa-font-path}/clarendon.otf');
+}
+
 p,
 h1,
 h2,
@@ -17,6 +23,7 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+  font-family: Clarendon;
 }
 
 hr {
