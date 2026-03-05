@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.sillywackyzanybooks.com/al-folio/sitemap.xml
+Sitemap: https://www.sillywackyzanybooks.com//sitemap.xml
