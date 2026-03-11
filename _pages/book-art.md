@@ -15,7 +15,7 @@ profile:
 
 ---
 
-My projects are made entirely out of upcycled material from directly from print books, not scans or copies. How can I do such a thing to a book?
+My projects are made entirely out of upcycled material taken directly from print books, not scans or copies. How can I do such a thing to a book?
 
 {% include figure.liquid loading="eager" 
                          path="assets/img/dead-book.jpg" 
