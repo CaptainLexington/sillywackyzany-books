@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/catering/";
           },
+        },{id: "nav-ethically-sourced-book-cover-art-pieces",
+          title: "Ethically-Sourced Book Cover Art Pieces",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/book-art/";
+          },
         },{id: "news-a-new-website",
           title: 'A new website!',
           description: "",
