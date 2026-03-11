@@ -11,7 +11,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info:
 
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -19,4 +19,6 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-SillyWackyZany Books is popup bookseller based in Minneapolis, Minnesota. We specialize in vintage mass-market paperbacks across genres that surprise, alarm, or confuse.
+SillyWackyZany Books is popup bookseller based in Minneapolis, Minnesota. I specialize in vintage mass-market paperbacks across genres that surprise, alarm, or confuse.
+
+I sell in person [at sundry marketplaces](/calendar/) and online [in weekly livestreams](https://www.whatnot.com/user/sillywackyzanybooks).

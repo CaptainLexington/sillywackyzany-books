@@ -13,5 +13,5 @@ Want to use vintage Harlequin romances as place settings at your tacky wedding?
 
 Do you need to dress the set of your community theater production with exactly the right selection of vintage paperback books?
 
-[Contact us directly](mailto:dale@sillywackyzanybooks.com) to explain your vison and receive a quote.
+[Contact me directly](mailto:dale@sillywackyzanybooks.com) to explain your vison and receive a quote.
 

@@ -22,6 +22,16 @@ figure.highlight {
   }
 }
 
+figure.inline-right {
+  width: 25%;
+  min-width: 100px;
+  float: right;
+}
+
+figcaption .figidx {
+ font-variant: small-caps;
+}
+
 pre {
   color: var(--global-theme-color);
   background-color: var(--global-code-bg-color);

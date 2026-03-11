@@ -3,6 +3,9 @@
 {% assign ext = parts.last %}
 
 <figure
+  {% if include.figure_class %}
+    class="{{ include.figure_class }}"
+  {% endif %}
   {% if include.slot %}
     slot="{{ include.slot }}"
   {% endif %}
@@ -81,6 +84,10 @@
   </picture>
 
   {% if include.caption %}
-    <figcaption class="caption">{{ include.caption }}</figcaption>
+    <figcaption class="caption">
+      {% if include.index %}
+        <span class="figidx">Figure {{include.index}}</span>&nbsp;
+      {% endif %}
+      {{ include.caption }}</figcaption>
   {% endif %}
 </figure>
