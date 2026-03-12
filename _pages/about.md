@@ -3,7 +3,7 @@ layout: about
 title: About
 nav-title: about
 permalink: /
-subtitle: Vintage Bookseller in Minneapolis
+subtitle: Mass Market Paperbacks from Across Space and Time
 
 profile:
   align: right
