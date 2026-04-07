@@ -9,10 +9,14 @@ nav_order: 1
 calendar: false
 social: true
 events:
- - name: Minicon
-   url:  https://mnstf.org/minicon59/
-   date: April 3-5
-   location: Bloomington
+ - name: Rewind Book Fair
+   url:  https://rewindbookfair.com
+   date: April 18-19
+   location: St Paul
+ - name: Quatum Con 
+   url:  https://quantum-con.org/
+   date: May 15-17
+   location: Plymouth
  - name: Elko Trader's Market
    url:  https://tradersmarket.us/
    date: May 22-25
