@@ -58,6 +58,9 @@ ninja.data = [{
       },{id: "news-a-new-website",
           title: 'A new website!',
           description: "",
+          section: "News",},{id: "news-a-new-blog-and-new-shows-on-the-calendar",
+          title: 'A new blog, and new shows on the calendar!',
+          description: "",
           section: "News",},{
         id: 'social-instagram',
         title: 'Instagram',
