@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/calendar/";
           },
+        },{id: "nav-blog",
+          title: "blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
         },{id: "nav-blind-date-with-a-book-club",
           title: "Blind Date with a Book Club",
           description: "",
@@ -37,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/book-art/";
           },
-        },{id: "news-a-new-website",
+        },{id: "post-why-mass-market-paperbacks",
+        
+          title: "Why Mass Market Paperbacks?",
+        
+        description: "why not just books generally?",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/why-mass-markets/";
+          
+        },
+      },{id: "news-a-new-website",
           title: 'A new website!',
           description: "",
           section: "News",},{
