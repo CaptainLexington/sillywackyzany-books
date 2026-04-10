@@ -5,8 +5,6 @@ description: why not just books generally?
 tags: musings
 ---
 
-# Why Mass-Market Paperbacks?
-
 The tagline of my store is "Mass-Market Paperbacks from Across Space and Time." The overwhelming majority of the books I sell are mass-market paperbacks. I don't pick up other formats of books unless I think I can sell them very quickly for a very good price because all my storage boxes are mass-market sized; I don't have a good place even to _keep_ trade paperbacks or hardcovers, nor to display them when I am [tabling](/calendar). Why did I constrain myself, why not let my bookstore have every kind of book? And how can I claim that a publishing trend centered in the United States, that lasted less than 75 years, produced books "from across space and time"?
 
 ## Reading for Everyone
