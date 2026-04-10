@@ -27,9 +27,10 @@ pagination:
 
   <div class="header-bar">
     <h2>{{ site.blog_description }}</h2>
+    <a href="https://buttondown.com/dale@sillywackyzanybooks.com"><i class="fa-solid fa-envelope"></i></a>
+    <a href="https://sillywackyzanybooks.com/feed.xml"><i class="fa-solid fa-square-rss"></i></a>
   </div>
   {% endif %}
-
 {% if site.display_tags and site.display_tags.size > 0 or site.display_categories and site.display_categories.size > 0 %}
 <!--
   <div class="tag-category-list">
@@ -59,7 +60,7 @@ pagination:
 -->
 {% assign featured_posts = site.posts | where: "featured", "true" %}
 {% if featured_posts.size > 0 %}
-<br>
+<br >
 
 <div class="container featured-posts">
 {% assign is_even = featured_posts.size | modulo: 2 %}
@@ -102,7 +103,7 @@ pagination:
 
 {% endif %}
 
-  <ul class="post-list">
+<ul class="post-list">
 
     {% if page.pagination.enabled %}
       {% assign postlist = paginator.posts %}
