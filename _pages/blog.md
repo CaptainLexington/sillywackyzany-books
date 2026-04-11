@@ -27,7 +27,7 @@ pagination:
 
   <div class="header-bar">
     <h2>{{ site.blog_description }}</h2>
-    <a href="https://buttondown.com/dale@sillywackyzanybooks.com"><i class="fa-solid fa-envelope"></i></a>
+    <a href="https://buttondown.com/sillywackyzanybooks"><i class="fa-solid fa-envelope"></i></a>
     <a href="https://sillywackyzanybooks.com/feed.xml"><i class="fa-solid fa-square-rss"></i></a>
   </div>
   {% endif %}

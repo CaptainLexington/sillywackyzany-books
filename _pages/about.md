@@ -23,4 +23,4 @@ SillyWackyZany Books is popup bookseller based in Minneapolis, Minnesota. I spec
 
 I sell in person [at sundry marketplaces](/calendar/) and online [in (more or less) weekly livestreams](https://www.whatnot.com/user/sillywackyzanybooks).
 
-You can [subscribe to my newsletter](https://buttondown.com/dale@sillywackyzanybooks.com), about which no claims or guarantees, explicit or implicit, are made concercing its regularity, punctuality, or readability. It's also available as an [RSS feed](https://sillywackyzanybooks.com/feed.xml) for you old-school types.
+You can [subscribe to my newsletter](https://buttondown.com/sillywackyzanybooks), about which no claims or guarantees, explicit or implicit, are made concercing its regularity, punctuality, or readability. It's also available as an [RSS feed](https://sillywackyzanybooks.com/feed.xml) for you old-school types.
