@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/book-art/";
           },
-        },{id: "post-why-mass-market-paperbacks",
+        },{id: "post-how-to-read-sixteen-books",
+        
+          title: "How to Read Sixteen Books",
+        
+        description: "like, at the same time",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/how-to-read-16-books/";
+          
+        },
+      },{id: "post-why-mass-market-paperbacks",
         
           title: "Why Mass Market Paperbacks?",
         
