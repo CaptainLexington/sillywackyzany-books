@@ -34,7 +34,7 @@ I knew immediately my list would be half fiction and half non-fiction, and then 
 12. Ditto. _The Sounds of Poetry by Robert Pinsky_.
 13. A book of essays. Essays about anything, by any author or authors. Whatever works! _Pilgrim at Tinker Creek by Annie Dillard_.
 14. What I have taken to calling a "miscellany": a book of facts, trivia, anecdotes, quotes, or witticisms, intended to be read in short chunks when time and attention are scarce. I usually read these when I am sleepy or not at my brightest. The best of these are the [QI Books of General Ignorance](https://en.wikipedia.org/wiki/The_Book_of_General_Ignorance), if you still don't quite have a handle on what I mean. _Do Fish Drink Water? by Bill McLain_.
-15. A book of letters, or a diary, or a memoir or autobiography, or a biography (about someone other than a historical figure, whose biography would go into 11 or 12). _Meanwhile, There Are Letters: The Corrspondance of Eudro Welty and Ross McDonald_.
+15. A book of letters, or a diary, or a memoir or autobiography, or a biography (about someone other than a historical figure, whose biography would go into 11 or 12). _Meanwhile, There Are Letters: The Correspondance of Eudro Welty and Ross McDonald_.
 16. Out of respect for Jo Walton's pioneering work, ditto. _Arthur Conan Doyle: A Life in Letters_.
 
 I have been using this system for about a month, and finished a handful of books. I have made progress on a handful more than had just been sitting gathering digital dust on my ereader.
