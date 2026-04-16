@@ -12,7 +12,7 @@ A few months ago, fantasy author Jo Walton [recapped her January reading](https:
 I read this, due to my temporally-limited mortal mind, one sentence at a time, and my thoughts were, after each one:
 1. That's more than I usually read at once, but I respect the hustle.
 2. Oh, a _system_? Interesting. 16 is an odd pick, but I guess you have to cap yourself somewhere.
-3. Two are _always_ books of letters? That makes sense to me, I like books of letters. Wait, so it's not just that she's caps her reading to sixteen, she has sixteen _categories_ into which she _slots_ the books she's currently reading. That's a good idea.
+3. Two are _always_ books of letters? That makes sense to me, I like books of letters. Wait, so it's not just that she caps her reading to sixteen, she has sixteen _categories_ into which she _slots_ the books she's currently reading. That's a good idea.
 
 I left a comment asking for more details, but I suspect Jo Walton just sends her writing to the editor and doesn't visit the Reactor blog herself, and I received no response. After a week of anxiously awaiting an update, I decided to make my _own_ system.
 
@@ -37,7 +37,7 @@ I knew immediately my list would be half fiction and half non-fiction, and then 
 15. A book of letters, or a diary, or a memoir or autobiography, or a biography (about someone other than a historical figure, whose biography would go into 11 or 12). _Meanwhile, There Are Letters: The Corrspondance of Eudro Welty and Ross McDonald_.
 16. Out of respect for Jo Walton's pioneering work, ditto. _Arthur Conan Doyle: A Life in Letters_.
 
-I have been using this system for about a month, and finished a handful of books. I have made progress on a handful more than had just been sitting gathering digital dust on ereader.
+I have been using this system for about a month, and finished a handful of books. I have made progress on a handful more than had just been sitting gathering digital dust on my ereader.
 
 In addition to these, I also have five other books in progress at any given time:
 
