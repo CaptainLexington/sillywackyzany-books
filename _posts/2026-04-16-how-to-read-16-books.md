@@ -16,7 +16,7 @@ I read this, due to my temporally-limited mortal mind, one sentence at a time, a
 
 I left a comment asking for more details, but I suspect Jo Walton just sends her writing to the editor and doesn't visit the Reactor blog herself, and I received no response. After a week of anxiously awaiting an update, I decided to make my _own_ system.
 
-EDIT 2026.04.17: Immediately after this went to press, I Google "jo walton sixteen books" and discovered that last month, after I had devised my own system but before writing this post, Jo Walton did in fact [explain her own system on Reactor](https://reactormag.com/how-to-read-sixteen-books-at-once-at-all-times/) (with, unfortunately, a very similar title to this one!). I will write a follow-up post comparing and contrasting our decisions.
+**EDIT 2026.04.17:** _Immediately after this went to press, I Googled "jo walton sixteen books" and discovered that last month, after I had devised my own system but before writing this post, Jo Walton did in fact [explain her original system on Reactor](https://reactormag.com/how-to-read-sixteen-books-at-once-at-all-times/) (with, unfortunately, a very similar title to this one!). I will write a follow-up post comparing and contrasting our decisions._
 
 You see, I'm a mood reader, and my ephemeral soul often changes its mood before I even finish a book. I naturally have several books going at once, but without any system for organizing them I often start a new book that suits the _same_ mood as a book I'm already reading, with the result that the earlier one just sits there on bottom of the stack and new books are continually placed on top of it. Chaos. With the right system, I could make sure I always have one book, and _only_ one book, in progress for _any mood_.
 
