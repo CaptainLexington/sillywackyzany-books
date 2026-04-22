@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/book-art/";
           },
-        },{id: "post-how-to-read-sixteen-books",
+        },{id: "post-what-39-s-so-special-about-books-anyway",
+        
+          title: "What&#39;s So Special About Books, Anyway?",
+        
+        description: "not a lot, but also everything",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/are-books-special/";
+          
+        },
+      },{id: "post-how-to-read-sixteen-books",
         
           title: "How to Read Sixteen Books",
         
