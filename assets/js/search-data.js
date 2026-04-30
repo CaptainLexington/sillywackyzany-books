@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/book-art/";
           },
-        },{id: "post-what-39-s-so-special-about-books-anyway",
+        },{id: "post-well-the-author-is-dead-now-what",
+        
+          title: "Well, the Author is Dead. Now What?",
+        
+        description: "why do we read? why do we care what is written?",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/the-author-is-dead-now-what/";
+          
+        },
+      },{id: "post-what-39-s-so-special-about-books-anyway",
         
           title: "What&#39;s So Special About Books, Anyway?",
         
