@@ -96,7 +96,7 @@ My esteemed colleague Chris McMillen, Whatnot's inimitable [cmacfin](https://www
 
 Of course, let's say you are a reader of narrower interests: perhaps, like many modern readers, you specialize in one genre. Well, this is no obstacle to reading many books at once. If, like Jo Walton and I, you wish not to confuse books that are too similar, you can divide your currently reading into _subgenres_:
 
-<div class="row mt-3"
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/genre-meme.jpg" caption="The wondrous complexity of human relationships" class="img-fluid rounded z-depth-1" index=2 width="300px" %}
     </div>
