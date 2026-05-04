@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/book-art/";
           },
-        },{id: "post-well-the-author-is-dead-now-what",
+        },{id: "post-sixteen-ways-to-read-sixteen-books",
+        
+          title: "Sixteen Ways to Read Sixteen Books",
+        
+        description: "whatever works for you",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/16-ways-to-read-16-books/";
+          
+        },
+      },{id: "post-well-the-author-is-dead-now-what",
         
           title: "Well, the Author is Dead. Now What?",
         
