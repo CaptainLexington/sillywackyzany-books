@@ -21,7 +21,7 @@ Let's look at the data, courtesy StoryGraph:
     </div>
 </div>
 
-And this doesn't even included the unlogged pages of books I'm making great progress on, but have yet to finish.
+And this doesn't even include the unlogged pages of books I'm making great progress on, but have yet to finish.
 
 To recap: the system is not merely to continue starting books until I reach 16, and then to insist on finishing at least one of them before starting any others; it is to have sixteen _categories_ or _slots_ of books, that match my most common reading moods and interests, and to make sure I always have _something_ that will capture the interest I happen to be feeling at the time.
 
@@ -82,7 +82,7 @@ There are also books on her list that map easily to my categories—I would put 
 
 Additionally, Jo Walton adds two constraints on these 16 books: one of the non-fiction books is one she is reading "fast", i.e. at the same pace as the two novels, and at least one in any category is translated from a language _other_ than Greek or Latin.
 
-Her fiction/non-fiction split is 4-12, versus my 8-8. I was intrigued that she made the same distinction between collections and anthologies—not that she knows the difference, which I expected, but that she keeps them as distinct categories in her reading. I cannot take full credit for my own usage—my original distinction was between "long" books of short stories and "short" ones, and it happened that they split along collection/anthology lines, and people I was explaining the system to inferred that that was the distinction, which I decided made more sense.
+Her fiction/non-fiction split is 4-12, versus my 8-8. I was intrigued that she made the same distinction between collections and anthologies—not that she knows the difference, which I expected, but that she keeps them as distinct categories in her reading. I cannot take full credit for my own usage—my original distinction was between "long" books of short stories and "short" ones, and it happened that they split along collection/anthology lines, and people I was explaining the system tt inferred that that was the distinction, which I decided made more sense.
 
 She has two books of poetry going at any time; more than one person I explained my system to asked where poetry fit in. I can only say that I am a Philistine and poetry apart from light verse is a mystery to me. All of my Ogden Nash is in hard copy, so it doesn't count in this system anyway.
 
