@@ -82,7 +82,7 @@ There are also books on her list that map easily to my categories—I would put 
 
 Additionally, Jo Walton adds two constraints on these 16 books: one of the non-fiction books is one she is reading "fast", i.e. at the same pace as the two novels, and at least one in any category is translated from a language _other_ than Greek or Latin.
 
-Her fiction/non-fiction split is 4-12, versus my 8-8. I was intrigued that she made the same distinction between collections and anthologies—not that she knows the difference, which I expected, but that she keeps them as distinct categories in her reading. I cannot take full credit for my own usage—my original distinction was between "long" books of short stories and "short" ones, and it happened that they split along collection/anthology lines, and people I was explaining the system tt inferred that that was the distinction, which I decided made more sense.
+Her fiction/non-fiction split is 4-12, versus my 8-8. I was intrigued that she made the same distinction between collections and anthologies—not that she knows the difference, which I expected, but that she keeps them as distinct categories in her reading. I cannot take full credit for my own usage—my original distinction was between "long" books of short stories and "short" ones, and it happened that they split along collection/anthology lines, and people I was explaining the system to inferred that that was the distinction, which I decided made more sense.
 
 She has two books of poetry going at any time; more than one person I explained my system to asked where poetry fit in. I can only say that I am a Philistine and poetry apart from light verse is a mystery to me. All of my Ogden Nash is in hard copy, so it doesn't count in this system anyway.
 
@@ -96,10 +96,10 @@ My esteemed colleague Chris McMillen, Whatnot's inimitable [cmacfin](https://www
 
 Of course, let's say you are a reader of narrower interests: perhaps, like many modern readers, you specialize in one genre. Well, this is no obstacle to reading many books at once. If, like Jo Walton and I, you wish not to confuse books that are too similar, you can divide your currently reading into _subgenres_:
 
-<div class="row mt-3">
+<div class="row mt-3"
     <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/genre-meme.jpg" caption="The wondrous complexity of human relationships" class="img-fluid rounded z-depth-1" index=2 width="300px" %}
     </div>
 </div>
 
-Of course, you may not need sixteen; or you may want twenty-four. I am sure my system will undergo revision as it makes contact with reality, and this may even been true of Jo Walton's. All I am really doing in this post is giving you permission to try something out, to tell you that despite the linear way in which reading was assigned to us in school, a little orderly chaos may suit your temperament more, and you can and should embrace that if it is helpful to you. The numbers suggest it is enormously helpful to me. I should buy Jo Walton some flowers.
+Of course, you may not need sixteen; or you may want twenty-four. I am sure my system will undergo revision as it makes contact with reality, and even Jo Walton's may not be done evolving. All I am really doing in this post is giving you permission to try something out, to tell you that despite the linear way in which reading was assigned to us in school, a little orderly chaos may suit your temperament more, and you can and should embrace that if it is helpful to you. The numbers suggest it is enormously helpful to me. I should buy Jo Walton some flowers.
