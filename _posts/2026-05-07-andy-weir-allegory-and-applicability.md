@@ -5,13 +5,13 @@ description: what can an author tell us about their work?
 tags: musings
 ---
 
-About a month ago, Andy Weir appeared on a video livestream with illiterate buffoon Critical Drinker, and shared an opinion that has been making the rounds now that the (very good) movie based on his book has come out and he's running the risk of getting some positive press:
+About a month ago, Andy Weir shared an opinion on YouTube that has been making the rounds now that the (very good) movie based on his book has come out and he's running the risk of getting some positive press:
 
 > I never put any politics or messaging in any of my stories at all. There's no deeper meaning. There isn't even any symbolism in my book. Even non-political symbolism, my stories are purely to entertain. You don't have to worry about THE MESSAGE. ([YouTube](https://youtu.be/ezZ_QGBpaDo?si=n-c9xPvlVLPIFJv5&t=3574))
 
 Of all the responses to this statement I have seen, the most salient and the most persuasive is that _Project Hail Mary_, at least, is a manifestly political story. In a nutshell, the sun is being slowly consumed by an exotic space microbe, and Ryan Gosling is sent on a one-way mission to a nearby star to try to discover how to prevent those microbes from rendering Earth uninhabitable. In the course of telling the story, several values are communicated implicitly: it is better to approach strangers with friendship than with hostility; it is better to cooperate than to compete; it is good to be selfless when you can make a difference.
 
-I haven't read Andy Weir's book; I've been warned off his prose style by people I respect, but his story at least made for an excellent film written and directed by other people. I am going, for purposes of this argument, to treat things from the film as representative of Weir as an author. I am sure Weir won't mind, because in the clips I saw of this interview, Critical Drinker behaves the same way.
+I haven't read Andy Weir's book; I've been warned off his prose style by people I respect, but his story at least made for an excellent film written and directed by other people. I am going, for purposes of this argument, to treat things from the film as representative of Weir as an author. I am sure Weir won't mind, because in the clips I saw of this interview, the host, Critical Drinker, behaves the same way.
 
 There is one line in this story that is meant to be persuasive to us, the audience, and to Grace, the protagonist, when trying to convince him to take the one-way mission. The woman in charge of the program says something like "We will run out of food in thirty years. That is _if_ the nations of the world work together to ration properly. Which they won't."
 
