@@ -65,4 +65,4 @@ So _Project Hail Mary_. In this story, the world is facing an ecological crisis.
 
 Of course, its beauty is not purely abstract, not merely pleasing to the senses. _Project Hail Mary_ is a moving story in large part because of what it has to say about people. It does no disservice to that beauty to finds its characters, events, and themes _applicable_ to the real world. It is a compliment to its fidelity that you recognize reality in its contours. One friend might remind you of another, but  they would be rightfully offended if you said they were a metaphor for the other one.
 
-In short, it does not change my reading of _Project Hail Mary_ that Andy Weir says he did intend for the book to be political. He means he did not write an allegory. When I say I found politics in it, I mean I found it applicable. Those statements are not really in conflict.
+In short, it does not change my reading of _Project Hail Mary_ that Andy Weir says he did intend for the book to be political. He means he did not write an allegory. When I say I found politics in it, I mean I found its story applicable. Those statements are not really in conflict.
