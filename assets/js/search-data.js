@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/book-art/";
           },
-        },{id: "post-sixteen-ways-to-read-sixteen-books",
+        },{id: "post-andy-weir-allegory-and-applicability",
+        
+          title: "Andy Weir, Allegory, and Applicability",
+        
+        description: "what can an author tell us about their work?",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/andy-weir-allegory-and-applicability/";
+          
+        },
+      },{id: "post-sixteen-ways-to-read-sixteen-books",
         
           title: "Sixteen Ways to Read Sixteen Books",
         
