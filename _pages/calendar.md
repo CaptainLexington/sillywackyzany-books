@@ -9,18 +9,6 @@ nav_order: 1
 calendar: false
 social: true
 events:
- - name: Rewind Book Fair
-   url:  https://rewindbookfair.com
-   date: April 18-19
-   location: St Paul
- - name: Quatum Con 
-   url:  https://quantum-con.org/
-   date: May 15-17
-   location: Plymouth
- - name: Elko Trader's Market
-   url:  https://tradersmarket.us/
-   date: May 22-25
-   location: Elko, Minnesota
  - name: Minnesota Antiquarian Book Fair
    url:  https://minnesotaantiquarianbookfair.wordpress.com/
    date: June 27
