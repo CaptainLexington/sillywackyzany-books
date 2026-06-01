@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/book-art/";
           },
-        },{id: "post-andy-weir-allegory-and-applicability",
+        },{id: "post-thoughts-on-genre",
+        
+          title: "Thoughts on Genre",
+        
+        description: "books are just books",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/thoughts-on-genre/";
+          
+        },
+      },{id: "post-andy-weir-allegory-and-applicability",
         
           title: "Andy Weir, Allegory, and Applicability",
         
