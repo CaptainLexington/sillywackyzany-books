@@ -9,14 +9,6 @@ nav_order: 1
 calendar: false
 social: true
 events:
- - name: Minnesota Antiquarian Book Fair
-   url:  https://minnesotaantiquarianbookfair.wordpress.com/
-   date: June 27
-   location: St Paul
- - name: CONvergence
-   url:  https://www.convergence-con.org/
-   date: July 2-5
-   location: Minneapolis
  - name: Pulpfest
    url:  https://pulpfest.com/
    date: July 30 - August 2
@@ -29,6 +21,10 @@ events:
    url:  https://tradersmarket.us/
    date: October 3-4
    location: Elko, Minnesota
+ - name: Twin Cities Book Festival
+   url: https://twincitiesbookfestival.com/
+   date: November 7
+   location: Union Depot, St Paul
 
 ---
 
