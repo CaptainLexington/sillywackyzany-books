@@ -9,14 +9,6 @@ nav_order: 1
 calendar: false
 social: true
 events:
- - name: Pulpfest
-   url:  https://pulpfest.com/
-   date: July 30 - August 2
-   location: Pittsburgh, PA
- - name: Elko Trader's Market
-   url:  https://tradersmarket.us/
-   date: September 4-7
-   location: Elko, Minnesota
  - name: Elko Trader's Market
    url:  https://tradersmarket.us/
    date: October 3-4
