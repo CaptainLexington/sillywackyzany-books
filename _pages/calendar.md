@@ -12,11 +12,19 @@ events:
  - name: Elko Trader's Market
    url:  https://tradersmarket.us/
    date: October 3-4
-   location: Elko, Minnesota
+   location: Elko
+ - name: Inbound BrewCo Booktoberfest
+   url: https://inboundbrew.co/book-fair-for-grown-ups-1
+   date: October 24
+   location: Falcon Heights
  - name: Twin Cities Book Festival
    url: https://twincitiesbookfestival.com/
    date: November 7
-   location: Union Depot, St Paul
+   location: St Paul
+ - name: Cuppa Mora Pages
+   url: https://cuppamorepages.com/ 
+   date: November 22
+   location: Inver Grove Heights
 
 ---
 
