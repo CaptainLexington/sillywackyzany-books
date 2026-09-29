@@ -13,10 +13,18 @@ events:
    url:  https://tradersmarket.us/
    date: October 3-4
    location: Elko
+ - name: Minneapolis Vintage Market at Quincy Hall
+   url: https://mplsvintagemarket.com
+   date: October 11
+   location: NE Minneapolis
  - name: Inbound BrewCo Booktoberfest
    url: https://inboundbrew.co/book-fair-for-grown-ups-1
    date: October 24
    location: Falcon Heights
+ - name: Minneapolis Vintage Market at Machine Shop
+   url: https://mplsvintagemarket.com
+   date: October 25
+   location: NE Minneapolis
  - name: Twin Cities Book Festival
    url: https://twincitiesbookfestival.com/
    date: November 7
