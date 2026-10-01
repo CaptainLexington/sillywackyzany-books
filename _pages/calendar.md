@@ -14,7 +14,7 @@ events:
    date: October 3-4
    location: Elko
  - name: Minneapolis Vintage Market at Quincy Hall
-   url: https://mplsvintagemarket.com
+   url:  https://www.mplsvintagemarket.com/eventsfeed/quincyhalloct11
    date: October 11
    location: NE Minneapolis
  - name: Inbound BrewCo Booktoberfest
@@ -22,15 +22,15 @@ events:
    date: October 24
    location: Falcon Heights
  - name: Minneapolis Vintage Market at Machine Shop
-   url: https://mplsvintagemarket.com
+   url:  https://www.mplsvintagemarket.com/eventsfeed/machineshopoct25
    date: October 25
    location: NE Minneapolis
  - name: Twin Cities Book Festival
-   url: https://twincitiesbookfestival.com/
+   url:  https://twincitiesbookfestival.com/
    date: November 7
    location: St Paul
  - name: Cuppa Mora Pages
-   url: https://cuppamorepages.com/ 
+   url:  https://cuppamorepages.com/ 
    date: November 22
    location: Inver Grove Heights
 

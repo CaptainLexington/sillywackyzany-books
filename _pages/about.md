@@ -19,8 +19,6 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-SillyWackyZany Books is popup bookseller based in Minneapolis, Minnesota. I specialize in vintage mass-market paperbacks across genres that surprise, alarm, or confuse.
-
-I sell in person [at sundry marketplaces](/calendar/) and online [in (more or less) weekly livestreams](https://www.whatnot.com/user/sillywackyzanybooks).
+SillyWackyZany Books is a popup bookseller based in Minneapolis, Minnesota. I specialize in vintage mass-market paperbacks in all genres, especially books that surprise, alarm, or confuse. You can find me year-round at [at sundry marketplaces](/calendar/).
 
 You can [subscribe to my newsletter](https://buttondown.com/sillywackyzanybooks), about which no claims or guarantees, explicit or implicit, are made concercing its regularity, punctuality, or readability. It's also available as an [RSS feed](https://sillywackyzanybooks.com/feed.xml) for you old-school types.
